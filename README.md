@@ -105,19 +105,19 @@ python tests/run_tests.py --suite basic_connectivity
 # Contributing
 We welcome contributions! If you're interested in improving this project, please follow these steps:
 
-Fork the repository.
+**Fork the repository.**
 
 Create a new branch (git checkout -b feature/your-feature-name).
 
-Make your changes.
+**Make your changes.**
 
 Commit your changes (git commit -m 'Add new feature').
 
-Push to the branch (git push origin feature/your-feature-name).
+**Push to the branch (git push origin feature/your-feature-name).**
 
 Open a Pull Request.
 
-Please ensure your code adheres to the existing style and includes appropriate tests.
+**Please ensure your code adheres to the existing style and includes appropriate tests.**
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
