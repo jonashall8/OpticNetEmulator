@@ -5,15 +5,6 @@ Open Optical Network Emulator & Diagnostic Suite
 # Project Concept
 The Open Optical Network Emulator & Diagnostic Suite is a modular tool designed to simulate and diagnose the behavior of optical network components, such as transponders, muxponders, and ROADMs. It aims to mimic a real-world packet-optical transport system, providing both a Command Line Interface (CLI) and a web interface for comprehensive diagnostics, testing, and simulation. This project is ideal for demonstrating strong skills in systems-level programming, networking, automation, performance optimization, and real-world applicability, particularly relevant to companies like Ciena.
 
-# Why This Project Stands Out
-**Relevance to Industry:** Directly mirrors the kind of complex systems work performed on advanced platforms like Ciena's 6500 series.
-
-**Versatile Skill Demonstration:** Showcases proficiency across systems programming (C/C++), scripting (Python, Bash), automation, testing, and deployment.
-
-**Open-Source Potential:** Offers a valuable resource for academic research, laboratory simulations, or as a foundational tool for network engineers.
-
-**Scalability:** Designed with modularity in mind, allowing for future expansion to support real hardware integration or compatibility with Software-Defined Networking (SDN) controllers.
-
 # Features
 **Core Optical Network Emulation:** Simulate various optical components (transponders, muxponders, ROADMs) and their interactions.
 
