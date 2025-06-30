@@ -112,3 +112,21 @@ Open a Pull Request.
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+MVP for the Optical Network Emulator Project
+Here’s what a realistic MVP might include:
+
+🔹 Core Features:
+Simulate a basic optical network topology (e.g., 2 nodes connected by a fiber link)
+Model signal flow between nodes using C++
+Command-line interface (CLI) to:
+Add/remove nodes
+Send test signals
+View signal status
+Python-based test suite to:
+Run automated tests on the emulator
+Log results and detect errors
+Bash scripts to:
+Start/stop the emulator
+Run tests
+Collect logs
