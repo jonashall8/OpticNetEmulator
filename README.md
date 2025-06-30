@@ -15,21 +15,21 @@ Open-Source Potential: Offers a valuable resource for academic research, laborat
 Scalability: Designed with modularity in mind, allowing for future expansion to support real hardware integration or compatibility with Software-Defined Networking (SDN) controllers.
 
 # Features
-Core Optical Network Emulation: Simulate various optical components (transponders, muxponders, ROADMs) and their interactions.
+**Core Optical Network Emulation:** Simulate various optical components (transponders, muxponders, ROADMs) and their interactions.
 
-Signal Flow Simulation: Model signal degradation, latency, and error rates within the emulated network.
+**Signal Flow Simulation:** Model signal degradation, latency, and error rates within the emulated network.
 
-Object-Oriented Design: Modular representation of network elements (nodes, links, amplifiers) using C/C++.
+**Object-Oriented Design:** Modular representation of network elements (nodes, links, amplifiers) using C/C++.
 
-Comprehensive Diagnostics: CLI and web interfaces for real-time monitoring and diagnostic insights.
+**Comprehensive Diagnostics:** CLI and web interfaces for real-time monitoring and diagnostic insights.
 
-Automated Testing Framework: Python-based framework for running automated tests against the emulator.
+**Automated Testing Framework:** Python-based framework for running automated tests against the emulator.
 
-Data Visualization: Python tools for visualizing key metrics like signal strength over time and error rates.
+**Data Visualization:** Python tools for visualizing key metrics like signal strength over time and error rates.
 
-Linux Daemon/Service: Ability to run the emulator as a background service for continuous operation.
+**Linux Daemon/Service:** Ability to run the emulator as a background service for continuous operation.
 
-System Integration: Bash scripts for deployment, robust logging, and system monitoring, including integration with systemd, cron jobs, and logrotate.
+**System Integration:** Bash scripts for deployment, robust logging, and system monitoring, including integration with systemd, cron jobs, and logrotate.
 
 # Bonus Features
 Network Management Protocol Support: Simulate real-world network management by adding support for SNMP or NetConf.
@@ -39,7 +39,7 @@ CI/CD Integration: Include unit and integration tests with CI/CD pipelines using
 Containerization: Docker support for easy and consistent deployment across different environments.
 
 # Tech Stack
-- C/C++:
+**C/C++:**
 
 Core emulator logic for high-performance simulation of optical components and signal flow.
 
@@ -47,7 +47,7 @@ Object-oriented design for modeling network elements.
 
 Implementation of performance-critical aspects like signal degradation, latency, and error simulation.
 
-- Python:
+**Python:**
 
 Development of a robust test automation framework.
 
@@ -55,7 +55,7 @@ Creation of a REST API or CLI tool for interacting with and controlling the emul
 
 Data visualization for network metrics.
 
-- Linux & Bash:
+**Linux & Bash:**
 
 Operating environment for running the emulator as a daemon or service.
 
@@ -63,15 +63,11 @@ Scripting for deployment, logging, and system monitoring.
 
 Integration with Linux system utilities (systemd, cron jobs, logrotate).
 
-- Docker (Bonus):
+**Docker (Bonus):**
 
 Containerization of the emulator for simplified deployment and environment consistency.
 
-SNMP/NetConf (Bonus):
-
-Protocols for simulating real-world network management interfaces.
-
-GitHub Actions / GitLab CI (Bonus):
+**GitHub Actions / GitLab CI (Bonus):**
 
 CI/CD pipelines for automated testing and deployment.
 
