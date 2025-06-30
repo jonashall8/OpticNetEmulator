@@ -1,4 +1,4 @@
-OpticNetEmulator 
+Optical-Network-Emulator
 =
 
 Open Optical Network Emulator & Diagnostic Suite
